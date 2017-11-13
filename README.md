@@ -15,4 +15,4 @@ After that, you should read the data using GET method.
 After that, you can use GET method to check using the same url.
 
 4. If we entered a wrong route like 'http://localhost:3000/abc', <br/>
-it responds with a 404 status and show "url": "/ not found". 
+it responds with a 404 status and shows "url": "/ not found". 
