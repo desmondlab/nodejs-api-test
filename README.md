@@ -2,7 +2,7 @@
 
 
 ## Testing RESTful API via Postman
-1. Input http://localhost:3000/tasks in the request URL and select GET action.
+1. After running MongoDB and server.js, open postman and onput http://localhost:3000/tasks in the request URL with GET method.
 After sending, you should see “[]” because there is nothing in the database yet.
 
 2. On the same address, change the method to POST, click body and select “x-www-form-urlencoded”.<br/>
