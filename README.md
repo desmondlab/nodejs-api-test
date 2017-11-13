@@ -1,7 +1,7 @@
 ﻿# nodejs-api-test
 
 
-## Testing via Postman
+## Testing RESTful API via Postman
 1. Input http://localhost:3000/tasks in the request URL and select GET action.
 After sending, you should see “[]” because there is nothing in the database yet.
 
